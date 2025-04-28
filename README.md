@@ -14,8 +14,8 @@ Michał Mysiewicz – design, presentation
 
 REMEMBER TO ADD YOUR GPT-4o KEY TO ChatServlet.java!!!
 
-![menu](https://github.com/user-attachments/assets/15b0aac0-f42b-492a-9258-5f16dc0e1215)
-![chat](https://github.com/user-attachments/assets/a0e48183-ac85-4245-8227-7e8f051a2c12)
-![aboutus](https://github.com/user-attachments/assets/58330901-0e59-4da9-99c9-f15e586079c4)
+![menu](https://github.com/user-attachments/assets/45076625-51d6-4cce-8884-20a923752df7)
+![chat](https://github.com/user-attachments/assets/f0952f72-b359-46d0-993f-4e666c65b12c)
+![aboutus](https://github.com/user-attachments/assets/378c6f56-e826-4e4a-a1f2-ba71a132c653)
 
 *The app is built using GitHub Azure AI GPT-4o, and the icons are provided by Wikipedia, licensed as free-to-share images for non-commercial use.*
